@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alek-Zander
-- 👀 I’m interested in html, css, java script
-- 🌱 I’m currently learning html, css, java script
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript, Angular
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ... pending
 
